@@ -9,136 +9,130 @@
     <priority>1.00</priority>
   </url>
   <url>
-    <loc>https://equivorahealth.com/#home</loc>
-    <lastmod>2026-11-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.90</priority>
-  </url>
-  <url>
-    <loc>https://equivorahealth.com/#about</loc>
+    <loc>https://equivorahealth.com/about</loc>
     <lastmod>2026-11-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://equivorahealth.com/#services</loc>
+    <loc>https://equivorahealth.com/services</loc>
     <lastmod>2026-11-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.90</priority>
   </url>
   <url>
-    <loc>https://equivorahealth.com/#pricing</loc>
+    <loc>https://equivorahealth.com/pricing</loc>
     <lastmod>2026-11-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.90</priority>
   </url>
   <url>
-    <loc>https://equivorahealth.com/#advancedmd</loc>
+    <loc>https://equivorahealth.com/advancedmd</loc>
     <lastmod>2026-11-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://equivorahealth.com/#out-of-network</loc>
+    <loc>https://equivorahealth.com/out-of-network</loc>
     <lastmod>2026-11-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://equivorahealth.com/#specialties</loc>
+    <loc>https://equivorahealth.com/specialties</loc>
     <lastmod>2026-11-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.90</priority>
   </url>
   <url>
-    <loc>https://equivorahealth.com/#faq</loc>
+    <loc>https://equivorahealth.com/faq</loc>
     <lastmod>2026-11-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.60</priority>
   </url>
   <url>
-    <loc>https://equivorahealth.com/#contact</loc>
+    <loc>https://equivorahealth.com/contact</loc>
     <lastmod>2026-11-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://equivorahealth.com/#privacy</loc>
+    <loc>https://equivorahealth.com/privacy</loc>
     <lastmod>2026-11-13</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.30</priority>
   </url>
 
-  <!-- Pricing Sub-Sections -->
+  <!-- Pricing Sub-Sections / Clean Query Paths -->
   <url>
-    <loc>https://equivorahealth.com/#pricing-details</loc>
+    <loc>https://equivorahealth.com/pricing/details</loc>
     <changefreq>monthly</changefreq>
     <priority>0.70</priority>
   </url>
   <url>
-    <loc>https://equivorahealth.com/#pricing-rcm</loc>
+    <loc>https://equivorahealth.com/pricing/rcm</loc>
     <changefreq>monthly</changefreq>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://equivorahealth.com/#pricing-credentialing</loc>
+    <loc>https://equivorahealth.com/pricing/credentialing</loc>
     <changefreq>monthly</changefreq>
     <priority>0.75</priority>
   </url>
   <url>
-    <loc>https://equivorahealth.com/#pricing-audit</loc>
+    <loc>https://equivorahealth.com/pricing/audit</loc>
     <changefreq>monthly</changefreq>
     <priority>0.75</priority>
   </url>
   <url>
-    <loc>https://equivorahealth.com/#pricing-licensing</loc>
+    <loc>https://equivorahealth.com/pricing/licensing</loc>
     <changefreq>monthly</changefreq>
     <priority>0.75</priority>
   </url>
   <url>
-    <loc>https://equivorahealth.com/#pricing-bundle</loc>
+    <loc>https://equivorahealth.com/pricing/bundle</loc>
     <changefreq>monthly</changefreq>
     <priority>0.75</priority>
   </url>
   <url>
-    <loc>https://equivorahealth.com/#pricing-software</loc>
+    <loc>https://equivorahealth.com/pricing/software</loc>
     <changefreq>monthly</changefreq>
     <priority>0.75</priority>
   </url>
   <url>
-    <loc>https://equivorahealth.com/#pricing-faq</loc>
+    <loc>https://equivorahealth.com/pricing/faq</loc>
     <changefreq>monthly</changefreq>
     <priority>0.60</priority>
   </url>
 
   <!-- Out-of-Network Sub-Sections -->
   <url>
-    <loc>https://equivorahealth.com/#oon-scas</loc>
+    <loc>https://equivorahealth.com/out-of-network/scas</loc>
     <changefreq>monthly</changefreq>
     <priority>0.75</priority>
   </url>
   <url>
-    <loc>https://equivorahealth.com/#oon-negotiation</loc>
+    <loc>https://equivorahealth.com/out-of-network/negotiation</loc>
     <changefreq>monthly</changefreq>
     <priority>0.75</priority>
   </url>
   <url>
-    <loc>https://equivorahealth.com/#oon-recovery</loc>
+    <loc>https://equivorahealth.com/out-of-network/recovery</loc>
     <changefreq>monthly</changefreq>
     <priority>0.75</priority>
   </url>
   <url>
-    <loc>https://equivorahealth.com/#oon-appeals</loc>
+    <loc>https://equivorahealth.com/out-of-network/appeals</loc>
     <changefreq>monthly</changefreq>
     <priority>0.75</priority>
   </url>
   <url>
-    <loc>https://equivorahealth.com/#oon-auth</loc>
+    <loc>https://equivorahealth.com/out-of-network/auth</loc>
     <changefreq>monthly</changefreq>
     <priority>0.75</priority>
   </url>
   <url>
-    <loc>https://equivorahealth.com/#oon-balance</loc>
+    <loc>https://equivorahealth.com/out-of-network/balance</loc>
     <changefreq>monthly</changefreq>
     <priority>0.75</priority>
   </url>
